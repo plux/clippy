@@ -1,0 +1,10 @@
+%%-*- mode: erlang -*-
+
+{ application, clippy
+, [ {description,  "Clippy"}
+  , {vsn,          git}
+  , {registered,   []}
+  , {applications, []}
+  , {env, []}
+  , {modules, []}
+  ]}.
